@@ -1,12 +1,13 @@
-## Data Structures 
+## Understanding Map in Javascript 
 
-You can use the [editor on GitHub](https://github.com/prashantb2991/prashantbiradar.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+JavaScript’s map function is extremely useful, but it can also be a bit confusing when you’re just starting out with programming.
+
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+So here’s a breakdown of what it does exactly, and how to use it.
+And by the way, if you need to catch up on JavaScript itself, I suggest you check out our JavaScript Primer first.
 
 ```markdown
 Syntax highlighted code block
