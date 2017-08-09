@@ -8,7 +8,7 @@ JavaScript’s map function is extremely useful, but it can also be a bit confus
 
 The Map object holds key-value pairs. Any value (both objects and primitive values) may be used as either a key or a value.
 
-```markdown
+```
 
     var myMap = new Map();
 
