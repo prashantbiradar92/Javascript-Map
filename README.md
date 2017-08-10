@@ -26,10 +26,10 @@ The Map object holds key-value pairs. Any value (both objects and primitive valu
 ### Methods
 
 ### 1. Map.prototype.clear()
-      Removes all key/value pairs from the Map object.
+       Removes all key/value pairs from the Map object.
 
 ### 2. Map.prototype.delete(key)
-    Removes any value associated to the key and returns the value that Map.prototype.has(key) would have previously returned.
+     Removes any value associated to the key and returns the value that Map.prototype.has(key) would have previously returned.
 
 ### 3. Map.prototype.has(key) 
     will return false afterwards.
@@ -42,7 +42,7 @@ The Map object holds key-value pairs. Any value (both objects and primitive valu
 
 ### 6. Map.prototype.get(key)
     Returns the value associated to the key, or undefined if there is none.
-   Map.prototype.has(key)
+    Map.prototype.has(key)
    Returns a boolean asserting whether a value has been associated to the key in the Map object or not.
 
 ### 7. Map.prototype.keys()
