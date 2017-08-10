@@ -25,7 +25,6 @@ The Map object holds key-value pairs. Any value (both objects and primitive valu
 ```
 ### Methods
 
-
 ### 1. Map.prototype.clear()
       Removes all key/value pairs from the Map object.
 ### 2. Map.prototype.delete(key)
